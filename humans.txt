@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Hodor - Hodor - Hodor
 
 # THANKS
 
